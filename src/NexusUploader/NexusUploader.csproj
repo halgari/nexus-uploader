@@ -9,13 +9,7 @@
   <PropertyGroup>
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>unex</ToolCommandName>
-    <PackageProjectUrl>https://github.com/agc93/nexus-uploader</PackageProjectUrl>
-    <PackageDescription>A .NET Core global tool for uploading files to existing Nexus Mods-hosted mods. Unofficial and unsupported!</PackageDescription>
-    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Title>Nexus Uploader</Title>
-    <Authors>agc93</Authors>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageId>NexusUploader</PackageId>
+    <PackageOutputPath>../../nupkg</PackageOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
