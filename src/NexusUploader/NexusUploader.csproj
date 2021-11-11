@@ -8,7 +8,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <PackAsTool>true</PackAsTool>
-    <ToolCommandName>unex</ToolCommandName>
+    <ToolCommandName>nexus-mods-uploader</ToolCommandName>
     <PackageOutputPath>../../nupkg</PackageOutputPath>
   </PropertyGroup>
 
